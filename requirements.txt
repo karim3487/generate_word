@@ -1,0 +1,2 @@
+docxtpl~=0.16.6
+google-cloud-storage == 2.5.0
